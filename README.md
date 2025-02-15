@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarshelke1995
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning vue js, nuxt js also backend 
+- 🌱 I’m currently working nodejs, express, vue js , react js and backend 
 - 💞️ I’m looking to collaborate on projects with other experienced developers.
 - 🧲 Worked on so many project using ,React js html, css, tailwind css, vue3 , vuetify3, pinia, nuxt3 , Go language and goFiber 
 - 📫 How to reach me https://github.com/sagarshelke1995. sagarshelke1995.ss@gmail.com
